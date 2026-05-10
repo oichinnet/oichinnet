@@ -49,7 +49,7 @@ Nhà phân phối sản phẩm hỗ trợ sức khỏe tình dục chính hãng 
 [![Instagram](https://img.shields.io/badge/Instagram-oichinshop-E4405F?style=flat&logo=instagram)](https://www.instagram.com/oichinshop)
 [![TikTok](https://img.shields.io/badge/TikTok-oichinshop-000000?style=flat&logo=tiktok)](https://www.tiktok.com/@oichinshop)
 [![YouTube](https://img.shields.io/badge/YouTube-Oichin--Official-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@Oichin-Official)
-[![Pinterest](https://img.shields.io/badge/Pinterest-OichinShop-E60023?style=flat&logo=pinterest)](https://www.pinterest.com/OichinShop)
+[![Pinterest](https://img.shields.io/badge/Pinterest-OichinShop-E60023?style=flat&logo=pinterest)](https://www.pinterest.com/oichinnet)
 
 ---
 
