@@ -22,13 +22,11 @@ tại Việt Nam từ năm **2011**.
 
 ### 🛒 Danh Mục Sản Phẩm Chủ Đạo
 
-| Danh mục | Sản phẩm tiêu biểu | Link |
+| Danh mục | Sản phẩm tiêu biểu
 |---|---|---|
-| **Intimate Toys for Women** | Vibrators, massagers, wearable toys | [oichin.net/sextoy-nu](https://oichin.net/sextoy-nu) |
-| **Men's Wellness** | Strokers, male massagers, couple rings | [oichin.net/sextoy-nam](https://oichin.net/sextoy-nam) |
-| **Couple Wellness** | App-controlled toys, couple vibrators | [oichin.net/do-choi-tinh-duc-cap-doi](https://oichin.net/do-choi-tinh-duc-cap-doi) |
-| **Lubricants & Gel** | Water-based, oil-based intimate gel | [oichin.net/gel-boi-tron](https://oichin.net/gel-boi-tron) |
-| **Blog Wellness** | Kiến thức sức khỏe tình dục | [oichin.net/blog](https://oichin.net/blog) |
+| **Intimate Toys for Women** | Vibrators, massagers, wearable toys
+| **Men's Wellness** | Strokers, male massagers, couple rings
+| **Blog Wellness** | Kiến thức sức khỏe tình dục
 
 ---
 
