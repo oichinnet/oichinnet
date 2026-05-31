@@ -1,6 +1,7 @@
-###  ** Oichin - Nâng tầm trải nghiệm phóng khoáng & tử tế **
+# Oichin — Nâng Tầm Trải Nghiệm Phóng Khoáng & Tử Tế
 
-Nhà phân phối sản phẩm hỗ trợ sức khỏe tình dục chính hãng tại Việt Nam từ năm **2011**.
+Nhà phân phối sản phẩm hỗ trợ sức khỏe tình dục chính hãng 
+tại Việt Nam từ năm **2011**.
 
 ---
 
@@ -9,12 +10,12 @@ Nhà phân phối sản phẩm hỗ trợ sức khỏe tình dục chính hãng 
 | Thương hiệu | Xuất xứ | Chuyên về |
 |---|---|---|
 | **Lelo** | 🇸🇪 Thụy Điển | Luxury wellness, silicone y tế cao cấp |
-| **Satisfyer** | 🇩🇪 Đức | Công nghệ air pulse, máy hút clitoris |
-| **We-Vibe** | 🇨🇦 Canada | Đồ chơi cặp đôi, kết nối app |
+| **Satisfyer** | 🇩🇪 Đức | Công nghệ air pulse, intimate massager |
+| **We-Vibe** | 🇨🇦 Canada | Couple wellness, kết nối app |
 | **Lovense** | 🇺🇸 Mỹ | Điều khiển từ xa qua internet |
-| **Fleshlight** | 🇺🇸 Mỹ | Masturbator nam #1 thế giới |
+| **Fleshlight** | 🇺🇸 Mỹ | Men's wellness products |
 | **Womanizer** | 🇩🇪 Đức | Pleasure Air technology |
-| **Svakom** | 🇺🇸 Mỹ | Smart toys thế hệ mới |
+| **Svakom** | 🇺🇸 Mỹ | Smart intimate toys thế hệ mới |
 | **Tenga** | 🇯🇵 Nhật Bản | Thiết kế tinh tế, đa dạng trải nghiệm |
 
 ---
@@ -23,9 +24,11 @@ Nhà phân phối sản phẩm hỗ trợ sức khỏe tình dục chính hãng 
 
 | Danh mục | Sản phẩm tiêu biểu | Link |
 |---|---|---|
-| **Sextoy Nữ** | Máy rung, máy hút clitoris, dildo, vibrator | [oichin.net/sextoy-nu](https://oichin.net/sextoy-nu) |
-| **Sextoy Nam** | Âm đạo giả, masturbator, vòng đeo, máy tự động | [oichin.net/sextoy-nam](https://oichin.net/sextoy-nam) |
-| **Blog Wellness** | Kiến thức sức khỏe tình dục cho người trưởng thành | [oichin.net/blog](https://oichin.net/blog) |
+| **Intimate Toys for Women** | Vibrators, massagers, wearable toys | [oichin.net/sextoy-nu](https://oichin.net/sextoy-nu) |
+| **Men's Wellness** | Strokers, male massagers, couple rings | [oichin.net/sextoy-nam](https://oichin.net/sextoy-nam) |
+| **Couple Wellness** | App-controlled toys, couple vibrators | [oichin.net/do-choi-tinh-duc-cap-doi](https://oichin.net/do-choi-tinh-duc-cap-doi) |
+| **Lubricants & Gel** | Water-based, oil-based intimate gel | [oichin.net/gel-boi-tron](https://oichin.net/gel-boi-tron) |
+| **Blog Wellness** | Kiến thức sức khỏe tình dục | [oichin.net/blog](https://oichin.net/blog) |
 
 ---
 
@@ -45,11 +48,13 @@ Nhà phân phối sản phẩm hỗ trợ sức khỏe tình dục chính hãng 
 ### 📡 Tìm Oichin trên
 
 [![Website](https://img.shields.io/badge/Website-oichin.net-2D7A7A?style=flat&logo=google-chrome)](https://oichin.net)
-[![Facebook](https://img.shields.io/badge/Facebook-Oichin.Official-1877F2?style=flat&logo=facebook)](https://www.facebook.com/Oichin.Official)
-[![Instagram](https://img.shields.io/badge/Instagram-oichinshop-E4405F?style=flat&logo=instagram)](https://www.instagram.com/oichinshop)
+[![Facebook](https://img.shields.io/badge/Facebook-Oichin-1877F2?style=flat&logo=facebook)](https://www.facebook.com/oichin.wellness)
+[![Instagram](https://img.shields.io/badge/Instagram-oichinshop-E4405F?style=flat&logo=instagram)](https://www.instagram.com/oichin.official)
 [![TikTok](https://img.shields.io/badge/TikTok-oichinshop-000000?style=flat&logo=tiktok)](https://www.tiktok.com/@oichinshop)
-[![YouTube](https://img.shields.io/badge/YouTube-Oichin--Official-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@Oichin-Official)
-[![Pinterest](https://img.shields.io/badge/Pinterest-OichinShop-E60023?style=flat&logo=pinterest)](https://www.pinterest.com/oichinnet)
+[![YouTube](https://img.shields.io/badge/YouTube-Oichin-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@oichinnet)
+[![Pinterest](https://img.shields.io/badge/Pinterest-oichinnet-E60023?style=flat&logo=pinterest)](https://www.pinterest.com/oichinnet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oichin-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/company/oichin-vn)
+[![Medium](https://img.shields.io/badge/Medium-oichin-000000?style=flat&logo=medium)](https://medium.com/@oichin)
 
 ---
 
