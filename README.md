@@ -62,8 +62,8 @@ tại Việt Nam từ năm **2011**.
 🌐 https://oichin.net
 📍 27-29 Đ. Kênh Tân Hóa, Tân Thới Hoà, Tân Phú, TP.HCM
 📞 0836665511
-📧 Contact@oichin.net
-💬 Zalo: 0836665511
+📧 Email: contact@oichin.net
+💬 Zalo OA: [Oichin Official Zalo](https://zalo.me/3186361630513430809)
 ```
 
 ---
